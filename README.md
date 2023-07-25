@@ -5,7 +5,12 @@
 - 🔭 I’m currently working on **Class management system**
 
 - 📫 My Portfolio **https://devabdullah-portfolio.web.app/**
+Some of my projects 
+- 🌱CRUD FIRBASE TODO **http://todoappdev.surge.sh**
+  
+- 🌱Simple SNOWLAKE template **https://snowlake.surge.sh/**
 
+- 🌱Simple js portfolio **(https://simplejsportfolio.surge.sh/)**
 - 🌱 I’m currently learning **Next js**
 
 - 💬 Ask me about **React, javascript**
