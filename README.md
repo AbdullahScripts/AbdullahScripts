@@ -31,5 +31,3 @@ Some of my projects
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmirxa009&show_icons=true&locale=en&layout=compact" alt="devmirxa009" /></p>
 
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMirxa009&" alt="waqarakrambhutta" /></p> 
