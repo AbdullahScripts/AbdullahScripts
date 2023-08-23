@@ -7,7 +7,9 @@
 - 📫 My Portfolio **https://devabdullah-portfolio.web.app/**
 Some of my projects 
 - 🌱CRUD FIRBASE TODO **http://todoappdev.surge.sh**
-  
+
+- 🌱Dynamic Photo Gallery **http://abdullah-photo-gallery.surge.sh/**
+
 - 🌱Simple SNOWLAKE template **https://snowlake.surge.sh/**
 
 - 🌱Simple js portfolio **(https://simplejsportfolio.surge.sh/)**
