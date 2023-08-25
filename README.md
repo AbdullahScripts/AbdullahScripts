@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 
-- 🔭 I’m currently working on **Class management system**
+- 🔭 I’m currently working on **Class management systeffffm**
 
 - 📫 My Portfolio **https://devabdullah-portfolio.web.app/**
 Some of my projects 
