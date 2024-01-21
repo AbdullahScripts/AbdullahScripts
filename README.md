@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, <a href="github.com/AbdullahScript">Mr. Muhammad Abdullah</a> here;</h1>
+<h1 align="center">Hello World, <a href="github.com/AbdullahScript">Mr. Muhammad Abdullah</a> here</h1>
 <h3 align="center">A Frontend Developer From Pakistan 🇵🇰</h3>
 
 
