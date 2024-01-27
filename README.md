@@ -2,7 +2,7 @@
 <h3 align="center">A Frontend Developer From Pakistan 🇵🇰</h3>
 
 
-- 💬 Ask me about **NextJS ,ReactJS**
+- 💬 Ask me about **NextJS , ReactJS**
 
 - 📫 How to reach me **linkedin.com/in/muhammad-abdullah009**
 
