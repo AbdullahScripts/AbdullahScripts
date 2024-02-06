@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **linkedin.com/in/muhammad-abdullah009**
 
-- ⚡ Fun Fact **I am Trying to solve problem in O notation 🥴**
+- ⚡ Fun Fact **I am Trying to solve problem in O notation **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
