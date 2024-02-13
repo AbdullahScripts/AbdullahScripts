@@ -59,7 +59,7 @@
 
 <!-- <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=zahooronly&show_icons=true&locale=en" alt="zahooronly"
-        height="200" /></p>
+        he /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahooronly&" alt="zahooronly" /></p> -->
 🔭 I’m currently working on Web Development using NextJS and ReactJS.<br>👯 I’m looking to collaborate on Web Development<br>🤝 I’m looking for help with NextJS <br>🌱 I’m currently learning NextJS and ReactJS<br>💬 Ask me about NextJS and ReactJS<br>⚡.
